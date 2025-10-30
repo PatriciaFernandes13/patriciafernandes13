@@ -3,14 +3,14 @@
   <img src="banner.png.png" alt="Banner - Patricia Fernandes" width="100%">
 </p>
 
-<h1 align="center">✨ Olá, eu sou a Patrícia Fernandes 🌙</h1>
+<h1 align="center">✨ Olá, eu sou a Patrícia 🌙</h1>
 
 <p align="center">
-  <strong>Cloud & Systems | AWS Practitioner (em formação) | Ex-Marketing & Comunicação</strong>
+  <strong>SysAdmin & DevOps | Cloud & Systems | AWS Practitioner | Marketing & Comunicação</strong>
 </p>
 
 <p align="center">
-  🌍 Porto, Portugal · 💬 EN | PT  
+  🌍 Braga, Portugal · 💬 EN | PT  
 </p>
 
 ---
