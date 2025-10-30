@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner - Patricia Fernandes](banner.png)
+![Banner - Patricia Fernandes](patriciafernandes13/banner.png)
 <p align="center">
   <img src="banner.png" alt="Banner - Patricia Fernandes" width="100%">
 </p>
