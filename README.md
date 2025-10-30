@@ -1,7 +1,7 @@
 <!-- Banner -->
-![Banner - Patricia Fernandes](patriciafernandes13/banner.png)
+![Banner - Patricia Fernandes](patriciafernandes13/banner.png.png)
 <p align="center">
-  <img src="banner.png" alt="Banner - Patricia Fernandes" width="100%">
+  <img src="banner.png.png" alt="Banner - Patricia Fernandes" width="100%">
 </p>
 
 <h1 align="center">✨ Olá, eu sou a Patrícia Fernandes 🌙</h1>
