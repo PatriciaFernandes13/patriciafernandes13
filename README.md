@@ -19,17 +19,28 @@
 Sou uma profissional em transição para a área tecnológica, atualmente a aprofundar **Cloud Computing, Linux, Python, SQL e Redes** no programa **AWS re/Start**.
 
 Venho de um percurso em **Marketing, Gestão e Customer Operations**, onde desenvolvi:
+
 ➾ Organização e gestão de processos
+
 ➾ Comunicação clara e eficaz
+
 ➾ Trabalho em equipa e apoio ao cliente
+
 ➾ Capacidade de adaptação rápida
+
 ➾ Resolução de problemas em contextos reais
+
 ➾ Espírito colaborativo e vontade de aprender continuamente 
 
+
 Hoje, aplico estas competências no contexto **Tech/Cloud** — com foco em **infraestrutura, automação e operações**.
+
 ➾ Ambiente Linux e linha de comandos
+
 ➾ Automação e troubleshooting
+
 ➾ Estruturação de processos e documentação
+
 ➾ Colaboração e aprendizagem contínua
 
 O meu objetivo é integrar uma equipa onde possa **crescer tecnicamente**, contribuir para soluções eficientes e continuar a desenvolver competências em **Cloud, Sistemas e Operações**.
@@ -76,10 +87,15 @@ O meu objetivo é integrar uma equipa onde possa **crescer tecnicamente**, contr
 ---
 
 ## 📦 O que estou a desenvolver neste momento
+
 ➾ **Deploy e gestão de recursos na AWS** (EC2, S3, IAM, VPC)
+
 ➾ **Monitorização e troubleshooting em sistema Linux**
+
 ➾ **Práticas de segurança em ambientes Cloud** (least privilege & acesso seguro)
+
 ➾ **Automação de tarefas** usando **Bash** e **Python**
+
 ➾ **Colaboração em equipa técnica** com Git & documentação clara
 
 ➸ “Se não sei, aprendo. Se já sei, partilho.” 💫
