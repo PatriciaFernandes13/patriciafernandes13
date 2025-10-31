@@ -31,8 +31,8 @@ Venho de um percurso em **Marketing, Gestão e Customer Operations**, onde desen
 ➾ Resolução de problemas em contextos reais
 
 ➾ Espírito colaborativo e vontade de aprender continuamente 
-
-
+ 
+ 
 Hoje, aplico estas competências no contexto **Tech/Cloud** — com foco em **infraestrutura, automação e operações**.
 
 ➾ Ambiente Linux e linha de comandos
@@ -97,7 +97,8 @@ O meu objetivo é integrar uma equipa onde possa **crescer tecnicamente**, contr
 ➾ **Automação de tarefas** usando **Bash** e **Python**
 
 ➾ **Colaboração em equipa técnica** com Git & documentação clara
-
+ 
+ 
 ➸ “Se não sei, aprendo. Se já sei, partilho.” 💫
 
 ---
